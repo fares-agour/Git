@@ -2,3 +2,4 @@ hello
 new line
 my name is fares
 that is better
+new
