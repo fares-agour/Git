@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-hello
-new line
-my name is fares
-that is better
-new
-fixedbug
-^
-=======
 password
->>>>>>> change-password
