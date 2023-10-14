@@ -1,3 +1,2 @@
 # Git
-mastering git with mosh
-new line
+mastering git 
